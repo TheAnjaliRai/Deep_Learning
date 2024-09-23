@@ -9,3 +9,5 @@
 <br>print("- **Recurrent Neural Networks (RNNs)**")
 <br>print("- **Transfer Learning**")
 <br>print("- **TensorFlow & Keras**")
+
+[Kaggle Profile](https://www.kaggle.com/theanjalirai)
